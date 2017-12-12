@@ -8,6 +8,9 @@
   text-align: center;
   background-color: $header-bg-color;
   background-image: url("../../images/17r4avs9zid3vjpg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+	
 
   @include large {
     padding: 5rem 6rem;
