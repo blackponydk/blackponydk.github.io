@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 The following weapons are available:
 ##### Ranged Weapons
 | Name          | Damage         | Cost    | Range  | Properties                               |

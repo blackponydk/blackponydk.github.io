@@ -6,7 +6,7 @@ description: Landing page for my Ideas.
 
 Welcome to the Game-Idea wiki!
 
-* [Cities](Cities.html)
+* [Cities](Cities)
 * [History](History)
 * [Weapons](Weapons)
 * [Armor](Armor)

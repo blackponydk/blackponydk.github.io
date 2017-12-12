@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Here is a list of the Cities that roam or once roamed the land
 
 ## The following cities are still active

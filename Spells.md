@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 # Identifyng a Spell
 When a spell is cast, you made use your passive Intelligence(Arcana) check to discern the spell's level. The DC equal 10 + the spell level. If you have proficiency in Intelligence(Arcana) or it is on your class spell list, you may use your reaction to further identify the spell.

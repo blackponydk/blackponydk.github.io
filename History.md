@@ -1,1 +1,5 @@
-[The Cataclysm](https://github.com/rpodsim/Game-Idea/wiki/Cataclysm)
+---
+layout: default
+---
+
+[The Cataclysm](Cataclysm)

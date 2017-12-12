@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Character Creation
 ## Table of Contents
 * [Ability Scores](#ability-scores)
@@ -18,7 +22,6 @@
 All characters can use either the standard array(15, 14, 13, 12, 10, 8) or 39 point buy. Ability scores are assigned as you want.
 
 #### Ability Score Point Cost
-
 | Score | Cost | Score | Cost |
 |:-----:|:----:|:-----:|:----:|
 |  6    | 0    |  12   | 6    |
@@ -69,7 +72,6 @@ After you claim a Setback, you get Inspiration.
 I allow spell points to be used in-place of spell slots.
 
 ### Spell Point Cost
-
 | Spell Level | Point Cost | Spell Level | Point Cost |
 |:---:|:---:|:---:|:---:|
 |  1st  | 2 |  6th  | 9 |
@@ -80,7 +82,6 @@ I allow spell points to be used in-place of spell slots.
 
 ### Spell Points by Level
 #### Full Caster
-
 | Class Level | Spell Points | Max Spell Level | Class Level | Spell Points | Max Spell Level |
 |:-----------:|:------------:|:---------------:|:-----------:|:------------:|:---------------:|
 | 1st         | 4            | 1st             | 10th        | 64           | 5th             |
@@ -94,7 +95,6 @@ I allow spell points to be used in-place of spell slots.
 | 9th         | 57           | 5th             |
 
 #### Half Caster
-
 | Class Level | Spell Points | Max Spell Level | Class Level | Spell Points | Max Spell Level |
 |:-----------:|:------------:|:---------------:|:-----------:|:------------:|:---------------:|
 | 2nd         | 4            | 1st             | 11th-12th   | 32           | 3rd             |
@@ -105,7 +105,6 @@ I allow spell points to be used in-place of spell slots.
 
 
 #### Third Caster
-
 | Class Level | Spell Points | Max Spell Level | Class Level | Spell Points | Max Spell Level |
 |:-----------:|:------------:|:---------------:|:-----------:|:------------:|:---------------:|
 | 3rd         | 4            | 1st             | 13th-15th   | 27           | 3rd             |
@@ -114,7 +113,6 @@ I allow spell points to be used in-place of spell slots.
 | 10th-12th   | 17           | 2nd             |
 
 #### Warlock
-
 | Class Level | Spell Points | Max Spell Level | Class Level | Spell Points | Max Spell Level |
 |:-----------:|:------------:|:---------------:|:-----------:|:------------:|:---------------:|
 | 1st         | 2            | 1st             | 7th-8th     | 12           | 4th             |

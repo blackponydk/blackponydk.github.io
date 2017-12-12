@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Table of Contencts
 * [Barbarian](#barbarian)
     * Core
