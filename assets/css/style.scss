@@ -8,23 +8,7 @@ $header-bg-color-secondary: #a36201 !default;
 @import "{{ site.theme}}";
 
 .page-header {
-	color: $header-heading-color;
-	text-align: center;
-	background-color: $header-bg-color;
 	background-image: url("../../images/17r4avs9zid3vjpg.jpg"), linear-gradient(120deg, $header-bg-color, $header-bg-color 30%, $header-bg-color-secondary);
 	background-position: center;
 	background-repeat: no-repeat;
-
-
-	@include large {
-		padding: 5rem 6rem;
-	}
-
-	@include medium {
-		padding: 3rem 4rem;
-	}
-
-	@include small {
-		padding: 2rem 1rem;
-	}
 }
