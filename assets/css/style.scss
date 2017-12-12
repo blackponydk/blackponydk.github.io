@@ -2,8 +2,8 @@
 ---
 
 $large-breakpoint: 74em !default;
-$header-bg-color: #a36201 !default;
-$header-bg-color-secondary: #1b1b2b !default;
+$header-bg-color: #1b1b2b !default;
+$header-bg-color-secondary: #a36201 !default;
 
 @import "{{ site.theme}}";
 
