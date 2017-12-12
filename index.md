@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Game Idea
+description: Landing page for my Ideas.
 ---
 
 Welcome to the Game-Idea wiki!
