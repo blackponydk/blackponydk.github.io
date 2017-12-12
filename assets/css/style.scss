@@ -14,7 +14,6 @@ $header-bg-color-secondary: #1b1b2b !default;
 	background-image: url("../../images/17r4avs9zid3vjpg.jpg"), linear-gradient(120deg, $header-bg-color, $header-bg-color 30%, $header-bg-color-secondary);
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: cover;
 
 
 	@include large {
