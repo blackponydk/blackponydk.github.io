@@ -22,6 +22,7 @@ layout: default
 All characters can use either the standard array(15, 14, 13, 12, 10, 8) or 39 point buy. Ability scores are assigned as you want.
 
 #### Ability Score Point Cost
+
 | Score | Cost | Score | Cost |
 |:-----:|:----:|:-----:|:----:|
 |  6    | 0    |  12   | 6    |
