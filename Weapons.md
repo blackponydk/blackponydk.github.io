@@ -4,6 +4,7 @@ layout: default
 
 The following weapons are available:
 ##### Ranged Weapons
+
 | Name          | Damage         | Cost    | Range  | Properties                               |
 |---------------|----------------|---------|--------|------------------------------------------|
 | Pistol        | 1d8 piercing   | 150 gp  | 50 ft  | reload 1, ammunition                     |
@@ -13,6 +14,7 @@ The following weapons are available:
 | Auto-Rifle    | 1d10 piercing  | 1500 gp | 100 ft | reload 5, ammunition                     |
 
 ##### Thrown Weapons
+
 | Name          | Damage         | Cost    | Range  | Properties                               |
 |---------------|----------------|---------|--------|------------------------------------------|
 | Grenade       | 2d6 blugeoning | 20 gp   | 30 ft  | explosive                                |
