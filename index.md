@@ -1,3 +1,8 @@
+---
+layout: default
+title: Game Idea
+---
+
 Welcome to the Game-Idea wiki!
 
 * [Cities](https://github.com/rpodsim/Game-Idea/wiki/Cities)
